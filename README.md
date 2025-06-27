@@ -16,5 +16,8 @@ O objetivo principal foi praticar a construção de layouts modernos e responsiv
 
 Este projeto foi desenvolvido como parte de um curso da plataforma Udemy (Desenvolvimento Web Completo - Jamilton Damasceno). Alguns elementos visuais foram inspirados diretamente no design oficial do Spotify.
 
+## 🖼️ Prévia
+
+![Prévia do projeto](imagens/Projeto-preview.png)
 
 
